@@ -1,0 +1,1 @@
+start np.lnk %CD%\%1%
